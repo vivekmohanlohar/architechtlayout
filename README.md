@@ -1,2 +1,3 @@
-# architechtlayout
-Architecht Website
+# Architecht Website
+
+Developed By Vivek Lohar and Shyam Wasankar
